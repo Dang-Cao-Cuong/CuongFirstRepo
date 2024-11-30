@@ -5,6 +5,6 @@ public class Main {
         Scanner sc=new Scanner(System.in);
         String input=sc.nextLine();
         System.out.println("Hello "+input);
-        System.out.println("Welcome to my Repository.");
+        System.out.println("Welcome to my Java Repository.");
     }
 }
